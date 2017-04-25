@@ -1,0 +1,6 @@
+{
+  "name": "commitmsg",
+  "description": "Script to validate a commit message follows the conventional changelog standard",
+  "main": "index.js",
+  "version": "0.0.0-development"
+}
